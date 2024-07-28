@@ -28,3 +28,7 @@ O dataset é composto por dois arquivos: 'dataset_dados.txt' e 'dataset_ações.
 
 - **Avaliar o Modelo de Gêmeo Digital**: O dataset é crucial para testar a eficácia do modelo do gêmeo digital.
 - **Visualizar e Interpretar Dados**: O dataset facilita a criação de gráficos e análises para compreender como as variações nos dados influenciam as respostas do gêmeo digital.
+
+
+# Visualização dos dados:
+![GRÁFICO](https://github.com/user-attachments/assets/bdf2480b-46a7-459f-9d56-d6719f83e2cf)
