@@ -1,230 +1,255 @@
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:22:26", "timeDiff": "0:0:3:17"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:24:56", "timeDiff": "0:0:1:339"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:26:26", "timeDiff": "0:0:1:268"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:27:26", "timeDiff": "0:0:1:243"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:28:26", "timeDiff": "0:0:1:199"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-18 22:28:56", "timeDiff": "0:0:1:289"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:29:26", "timeDiff": "0:0:1:239"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:29:56", "timeDiff": "0:0:1:212"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:30:26", "timeDiff": "0:0:1:203"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:30:56", "timeDiff": "0:0:1:229"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:31:26", "timeDiff": "0:0:1:227"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:31:56", "timeDiff": "0:0:1:232"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:32:26", "timeDiff": "0:0:1:318"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:32:56", "timeDiff": "0:0:1:245"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:33:56", "timeDiff": "0:0:1:238"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:34:56", "timeDiff": "0:0:1:239"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-18 22:21:56", "timeDiff": "0:0:58:452"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:23:56", "timeDiff": "0:0:58:355"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:21:26", "timeDiff": "0:1:6:3"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:41:26", "timeDiff": "0:1:3:574"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:36:56", "timeDiff": "0:1:12:920"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:43:56", "timeDiff": "0:1:2:371"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:12:26", "timeDiff": "0:0:5:393"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:14:56", "timeDiff": "0:0:2:15"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 02:46:26", "timeDiff": "0:1:0:73"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:18:26", "timeDiff": "0:0:1:983"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:44:56", "timeDiff": "0:1:9:16"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:48:26", "timeDiff": "0:1:3:55"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:19:26", "timeDiff": "0:0:1:984"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:45:26", "timeDiff": "0:1:10:136"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:19:56", "timeDiff": "0:0:1:955"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:51:56", "timeDiff": "0:0:58:93"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:50:26", "timeDiff": "0:1:2:98"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:20:56", "timeDiff": "0:0:2:49"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:21:26", "timeDiff": "0:0:2:47"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:47:56", "timeDiff": "0:1:9:47"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:21:56", "timeDiff": "0:0:1:960"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:22:26", "timeDiff": "0:0:2:3"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:22:56", "timeDiff": "0:0:1:953"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:23:26", "timeDiff": "0:0:1:942"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:23:56", "timeDiff": "0:0:1:941"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:49:26", "timeDiff": "0:1:12:112"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:24:56", "timeDiff": "0:0:1:965"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:55:56", "timeDiff": "0:1:0:79"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:25:26", "timeDiff": "0:0:2:48"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:52:56", "timeDiff": "0:1:7:35"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:25:56", "timeDiff": "0:0:1:956"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:26:56", "timeDiff": "0:0:1:923"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:27:26", "timeDiff": "0:0:2:30"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:27:56", "timeDiff": "0:0:1:963"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:28:56", "timeDiff": "0:0:1:984"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:57:26", "timeDiff": "0:1:5:92"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:59:56", "timeDiff": "0:1:1:13"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:29:26", "timeDiff": "0:0:2:23"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:58:26", "timeDiff": "0:1:5:37"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:30:26", "timeDiff": "0:0:2:5"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:30:56", "timeDiff": "0:0:1:948"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:31:56", "timeDiff": "0:0:1:951"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:32:26", "timeDiff": "0:0:1:948"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:32:56", "timeDiff": "0:0:2:16"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:33:56", "timeDiff": "0:0:1:977"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:34:26", "timeDiff": "0:0:1:998"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:06:26", "timeDiff": "0:0:58:80"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:34:56", "timeDiff": "0:0:2:72"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:35:26", "timeDiff": "0:0:1:954"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:01:26", "timeDiff": "0:1:10:0"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:36:26", "timeDiff": "0:0:1:971"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:36:56", "timeDiff": "0:0:1:979"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:37:26", "timeDiff": "0:0:1:999"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:07:26", "timeDiff": "0:1:5:109"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:39:56", "timeDiff": "0:0:2:2"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:40:26", "timeDiff": "0:0:2:86"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:09:26", "timeDiff": "0:1:5:41"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:41:56", "timeDiff": "0:0:2:50"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:42:26", "timeDiff": "0:0:2:80"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:08:56", "timeDiff": "0:1:9:106"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:42:56", "timeDiff": "0:0:2:11"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:43:26", "timeDiff": "0:0:1:996"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:13:56", "timeDiff": "0:1:1:53"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:44:26", "timeDiff": "0:0:1:999"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:45:26", "timeDiff": "0:0:1:52"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:14:26", "timeDiff": "0:1:4:27"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:46:26", "timeDiff": "0:0:1:0"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:46:56", "timeDiff": "0:0:0:977"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:47:26", "timeDiff": "0:0:0:988"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:47:56", "timeDiff": "0:0:0:980"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:48:56", "timeDiff": "0:0:1:4"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:50:26", "timeDiff": "0:0:1:22"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:51:26", "timeDiff": "0:0:0:999"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:52:56", "timeDiff": "0:0:1:32"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:53:26", "timeDiff": "0:0:1:151"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:53:56", "timeDiff": "0:0:1:46"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:54:26", "timeDiff": "0:0:1:85"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:55:26", "timeDiff": "0:0:1:40"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:56:26", "timeDiff": "0:0:1:12"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:58:26", "timeDiff": "0:0:1:17"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:58:56", "timeDiff": "0:0:1:87"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:59:26", "timeDiff": "0:0:1:55"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:59:56", "timeDiff": "0:0:1:52"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:00:26", "timeDiff": "0:0:1:16"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:00:56", "timeDiff": "0:0:1:55"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:01:26", "timeDiff": "0:0:1:44"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:04:26", "timeDiff": "0:0:1:110"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:05:26", "timeDiff": "0:0:1:51"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:06:26", "timeDiff": "0:0:1:64"}
-{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:07:26", "timeDiff": "0:0:1:79"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:19:26", "timeDiff": "0:0:1:176"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:42:26", "timeDiff": "0:3:19:133"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:20:56", "timeDiff": "0:0:1:175"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:21:56", "timeDiff": "0:0:1:192"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:24:26", "timeDiff": "0:0:1:81"}
-{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:00:56", "timeDiff": "0:2:49:149"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:50:56", "timeDiff": "0:3:10:68"}
-{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:24:56", "timeDiff": "0:0:1:121"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:27:56", "timeDiff": "0:0:1:137"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:28:26", "timeDiff": "0:0:1:117"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:28:56", "timeDiff": "0:0:1:89"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:29:26", "timeDiff": "0:0:1:129"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:29:56", "timeDiff": "0:0:1:85"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 02:53:26", "timeDiff": "0:3:15:190"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:30:26", "timeDiff": "0:0:1:87"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 03:06:56", "timeDiff": "0:2:49:207"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:30:56", "timeDiff": "0:0:1:128"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 03:00:26", "timeDiff": "0:3:3:157"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:31:26", "timeDiff": "0:0:1:129"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 03:03:26", "timeDiff": "0:2:58:262"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 02:55:26", "timeDiff": "0:3:15:160"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:31:56", "timeDiff": "0:0:1:168"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:32:26", "timeDiff": "0:0:1:138"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 03:05:26", "timeDiff": "0:2:56:148"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:32:56", "timeDiff": "0:0:1:92"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:33:26", "timeDiff": "0:0:1:129"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:33:56", "timeDiff": "0:0:1:160"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:34:26", "timeDiff": "0:0:1:209"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:34:56", "timeDiff": "0:0:1:102"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:35:26", "timeDiff": "0:0:1:178"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:35:56", "timeDiff": "0:0:1:564"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:36:26", "timeDiff": "0:0:1:168"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:36:56", "timeDiff": "0:0:1:147"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:37:26", "timeDiff": "0:0:1:181"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:37:56", "timeDiff": "0:0:1:114"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:38:26", "timeDiff": "0:0:1:108"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:57:56", "timeDiff": "0:3:23:239"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:04:56", "timeDiff": "0:3:10:177"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:38:56", "timeDiff": "0:0:1:637"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:39:26", "timeDiff": "0:0:1:155"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:39:56", "timeDiff": "0:0:1:231"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:40:26", "timeDiff": "0:0:1:142"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:40:56", "timeDiff": "0:0:1:179"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:41:26", "timeDiff": "0:0:1:185"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:41:56", "timeDiff": "0:0:1:146"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 03:10:26", "timeDiff": "0:3:6:190"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:42:56", "timeDiff": "0:0:1:208"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:43:26", "timeDiff": "0:0:1:160"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:43:56", "timeDiff": "0:0:1:625"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:45:26", "timeDiff": "0:0:1:193"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:45:56", "timeDiff": "0:0:1:220"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:46:26", "timeDiff": "0:0:1:164"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:46:56", "timeDiff": "0:0:1:209"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:47:26", "timeDiff": "0:0:1:284"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:47:56", "timeDiff": "0:0:1:155"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:48:26", "timeDiff": "0:0:1:219"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:48:56", "timeDiff": "0:0:1:178"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:49:26", "timeDiff": "0:0:1:159"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:49:56", "timeDiff": "0:0:1:167"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:50:26", "timeDiff": "0:0:1:224"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:50:56", "timeDiff": "0:0:1:178"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:51:26", "timeDiff": "0:0:1:215"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:51:56", "timeDiff": "0:0:1:248"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:52:26", "timeDiff": "0:0:1:215"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:52:56", "timeDiff": "0:0:1:239"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:53:26", "timeDiff": "0:0:1:313"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:53:56", "timeDiff": "0:0:1:258"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:54:26", "timeDiff": "0:0:1:172"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:54:56", "timeDiff": "0:0:1:205"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:55:26", "timeDiff": "0:0:1:263"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:55:56", "timeDiff": "0:0:1:203"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:56:26", "timeDiff": "0:0:1:224"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:56:56", "timeDiff": "0:0:1:158"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:57:26", "timeDiff": "0:0:1:227"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:57:56", "timeDiff": "0:0:1:229"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:58:26", "timeDiff": "0:0:1:202"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:58:56", "timeDiff": "0:0:1:332"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:59:26", "timeDiff": "0:0:1:192"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:59:56", "timeDiff": "0:0:1:291"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:00:26", "timeDiff": "0:0:1:311"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:00:56", "timeDiff": "0:0:1:310"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:01:26", "timeDiff": "0:0:1:214"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:01:56", "timeDiff": "0:0:1:237"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:02:26", "timeDiff": "0:0:1:195"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:02:56", "timeDiff": "0:0:1:197"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:03:26", "timeDiff": "0:0:1:321"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:03:56", "timeDiff": "0:0:1:324"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:04:26", "timeDiff": "0:0:1:262"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:04:56", "timeDiff": "0:0:1:222"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:05:26", "timeDiff": "0:0:1:232"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:05:56", "timeDiff": "0:0:1:269"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:06:26", "timeDiff": "0:0:1:294"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:06:56", "timeDiff": "0:0:1:242"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:07:26", "timeDiff": "0:0:1:384"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:07:56", "timeDiff": "0:0:1:237"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:08:26", "timeDiff": "0:0:1:292"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:08:56", "timeDiff": "0:0:1:334"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:09:26", "timeDiff": "0:0:1:373"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:09:56", "timeDiff": "0:0:1:291"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:10:26", "timeDiff": "0:0:1:334"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:10:56", "timeDiff": "0:0:1:312"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:11:26", "timeDiff": "0:0:1:269"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 05:11:56", "timeDiff": "0:0:1:232"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 05:12:26", "timeDiff": "0:0:1:385"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:12:56", "timeDiff": "0:0:1:269"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:13:26", "timeDiff": "0:0:1:307"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 05:13:56", "timeDiff": "0:0:1:370"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 05:14:26", "timeDiff": "0:0:1:305"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:14:56", "timeDiff": "0:0:1:309"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:15:26", "timeDiff": "0:0:1:273"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:15:56", "timeDiff": "0:0:1:315"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:16:26", "timeDiff": "0:0:1:342"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:16:56", "timeDiff": "0:0:1:292"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:17:26", "timeDiff": "0:0:1:344"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:18:26", "timeDiff": "0:0:1:247"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:18:56", "timeDiff": "0:0:1:318"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:19:26", "timeDiff": "0:0:1:190"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:19:56", "timeDiff": "0:0:1:260"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:20:26", "timeDiff": "0:0:1:259"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:20:56", "timeDiff": "0:0:1:241"}
-{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:17:56", "timeDiff": "0:1:7:67"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:44:56", "timeDiff": "0:3:6:90"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:44:26", "timeDiff": "0:3:12:784"}
-{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:42:26", "timeDiff": "0:3:26:832"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:22:26", "timeDiff": "0:0:3:454"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:27:56", "timeDiff": "0:0:59:792"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:24:26", "timeDiff": "0:1:7:641"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:22:26", "timeDiff": "0:1:12:232"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:23:26", "timeDiff": "0:1:10:339"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-18 22:26:26", "timeDiff": "0:1:11:342"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:31:26", "timeDiff": "0:1:4:138"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-18 22:33:56", "timeDiff": "0:1:0:21"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:34:56", "timeDiff": "0:0:58:987"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-18 22:31:56", "timeDiff": "0:1:5:227"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:29:56", "timeDiff": "0:1:12:124"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:32:56", "timeDiff": "0:1:6:966"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:27:56", "timeDiff": "0:2:48:789"}
+{"UPDATE_ON": "cellphone", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:27:26", "timeDiff": "0:2:53:241"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:21:56", "timeDiff": "0:3:17:388"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:19:56", "timeDiff": "0:3:22:331"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-18 22:24:26", "timeDiff": "0:3:14:327"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:21:26", "timeDiff": "0:3:22:190"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:25:56", "timeDiff": "0:3:18:143"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:32:26", "timeDiff": "0:3:12:247"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 00:13:56", "timeDiff": "0:0:1:285"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 00:14:56", "timeDiff": "0:0:1:293"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 00:15:56", "timeDiff": "0:0:1:292"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 00:16:26", "timeDiff": "0:0:1:344"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 00:16:56", "timeDiff": "0:0:1:290"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-18 22:35:26", "timeDiff": "0:3:26:569"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 00:18:26", "timeDiff": "0:0:1:317"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 00:18:56", "timeDiff": "0:0:1:351"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 00:20:26", "timeDiff": "0:0:1:393"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 00:22:56", "timeDiff": "0:0:1:243"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 00:23:56", "timeDiff": "0:0:1:263"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 00:24:56", "timeDiff": "0:0:1:385"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 00:25:26", "timeDiff": "0:0:1:224"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 00:26:26", "timeDiff": "0:0:1:252"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 00:26:56", "timeDiff": "0:0:1:239"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 00:13:26", "timeDiff": "0:1:3:406"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 02:39:56", "timeDiff": "0:0:2:116"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 02:40:56", "timeDiff": "0:0:2:92"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 02:41:26", "timeDiff": "0:0:1:976"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 02:42:26", "timeDiff": "0:0:1:925"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 02:42:56", "timeDiff": "0:0:1:908"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:44:26", "timeDiff": "0:0:1:946"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:45:26", "timeDiff": "0:0:1:993"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:48:26", "timeDiff": "0:0:2:36"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:48:56", "timeDiff": "0:0:1:989"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:49:26", "timeDiff": "0:0:1:957"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:49:56", "timeDiff": "0:0:2:11"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:50:56", "timeDiff": "0:0:1:986"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:51:26", "timeDiff": "0:0:1:883"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:52:26", "timeDiff": "0:0:2:154"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:52:56", "timeDiff": "0:0:1:966"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:53:26", "timeDiff": "0:0:1:961"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 02:55:26", "timeDiff": "0:0:1:911"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 02:55:56", "timeDiff": "0:0:1:944"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:57:56", "timeDiff": "0:0:1:942"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:58:26", "timeDiff": "0:0:1:923"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 02:58:56", "timeDiff": "0:0:1:942"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:00:56", "timeDiff": "0:0:2:45"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:01:26", "timeDiff": "0:0:2:5"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:02:26", "timeDiff": "0:0:1:948"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:03:26", "timeDiff": "0:0:2:53"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:03:56", "timeDiff": "0:0:1:961"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:04:26", "timeDiff": "0:0:1:982"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:04:56", "timeDiff": "0:0:2:60"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:05:56", "timeDiff": "0:0:1:930"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:06:26", "timeDiff": "0:0:2:46"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:06:56", "timeDiff": "0:0:1:922"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:10:26", "timeDiff": "0:0:1:980"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:11:26", "timeDiff": "0:0:1:990"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:11:56", "timeDiff": "0:0:2:8"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:12:56", "timeDiff": "0:0:2:129"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:13:26", "timeDiff": "0:0:2:4"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:15:26", "timeDiff": "0:0:2:80"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:15:56", "timeDiff": "0:0:2:62"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:16:26", "timeDiff": "0:0:2:4"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:16:56", "timeDiff": "0:0:1:964"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:17:26", "timeDiff": "0:0:2:2"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:18:26", "timeDiff": "0:0:2:2"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:18:56", "timeDiff": "0:0:2:47"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:21:56", "timeDiff": "0:0:2:26"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:22:26", "timeDiff": "0:0:2:138"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:22:56", "timeDiff": "0:0:2:44"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:25:56", "timeDiff": "0:0:2:103"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:26:26", "timeDiff": "0:0:2:46"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:26:56", "timeDiff": "0:0:2:100"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:28:56", "timeDiff": "0:0:2:144"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:29:26", "timeDiff": "0:0:2:35"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:29:56", "timeDiff": "0:0:3:458"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:33:26", "timeDiff": "0:0:1:146"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:33:56", "timeDiff": "0:0:1:88"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:34:26", "timeDiff": "0:0:1:116"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:37:26", "timeDiff": "0:0:1:145"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:37:56", "timeDiff": "0:0:1:73"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:38:26", "timeDiff": "0:0:1:31"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:39:56", "timeDiff": "0:0:1:49"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:40:26", "timeDiff": "0:0:1:121"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:42:26", "timeDiff": "0:0:1:163"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:43:56", "timeDiff": "0:0:1:64"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:44:26", "timeDiff": "0:0:1:124"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:44:56", "timeDiff": "0:0:1:292"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:45:56", "timeDiff": "0:0:1:94"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:46:26", "timeDiff": "0:0:1:72"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:47:26", "timeDiff": "0:0:1:153"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 03:47:56", "timeDiff": "0:0:1:93"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:48:56", "timeDiff": "0:0:1:399"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:49:56", "timeDiff": "0:0:1:97"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:51:56", "timeDiff": "0:0:1:188"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:53:56", "timeDiff": "0:0:1:234"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:55:26", "timeDiff": "0:0:1:123"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 03:56:26", "timeDiff": "0:0:1:99"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:57:26", "timeDiff": "0:0:1:175"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:57:56", "timeDiff": "0:0:1:148"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:58:26", "timeDiff": "0:0:1:134"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:58:56", "timeDiff": "0:0:1:140"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 03:59:56", "timeDiff": "0:0:1:192"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:00:56", "timeDiff": "0:0:1:114"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:01:26", "timeDiff": "0:0:1:155"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:02:26", "timeDiff": "0:0:1:189"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:02:56", "timeDiff": "0:0:1:172"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:03:26", "timeDiff": "0:0:1:149"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:03:56", "timeDiff": "0:0:1:197"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:06:56", "timeDiff": "0:0:1:179"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:09:26", "timeDiff": "0:0:1:155"}
+{"UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:09:56", "timeDiff": "0:0:1:184"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:10:56", "timeDiff": "0:0:1:176"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:11:26", "timeDiff": "0:0:1:197"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:11:56", "timeDiff": "0:0:1:224"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:12:26", "timeDiff": "0:0:1:365"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:13:56", "timeDiff": "0:0:1:205"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:14:56", "timeDiff": "0:0:1:255"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:15:26", "timeDiff": "0:0:1:293"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:15:56", "timeDiff": "0:0:1:246"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:16:56", "timeDiff": "0:0:1:213"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:17:26", "timeDiff": "0:0:1:202"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:17:56", "timeDiff": "0:0:1:221"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:18:26", "timeDiff": "0:0:1:191"}
+{"UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:19:26", "timeDiff": "0:0:1:339"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:19:56", "timeDiff": "0:0:1:287"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:21:26", "timeDiff": "0:0:1:284"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:22:26", "timeDiff": "0:0:1:271"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:22:56", "timeDiff": "0:0:1:229"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:23:26", "timeDiff": "0:0:1:286"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:23:56", "timeDiff": "0:0:1:333"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:25:26", "timeDiff": "0:0:1:246"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:25:56", "timeDiff": "0:0:1:249"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:26:26", "timeDiff": "0:0:1:256"}
+{"UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:27:26", "timeDiff": "0:0:1:293"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:27:56", "timeDiff": "0:0:1:234"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:28:26", "timeDiff": "0:0:1:243"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:28:56", "timeDiff": "0:0:1:292"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:29:26", "timeDiff": "0:0:1:244"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:29:56", "timeDiff": "0:0:1:330"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:30:26", "timeDiff": "0:0:1:297"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:30:56", "timeDiff": "0:0:1:252"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:31:26", "timeDiff": "0:0:1:273"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:31:56", "timeDiff": "0:0:1:411"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:32:26", "timeDiff": "0:0:1:322"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:32:56", "timeDiff": "0:0:1:332"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:33:26", "timeDiff": "0:0:1:252"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:33:56", "timeDiff": "0:0:1:321"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:34:26", "timeDiff": "0:0:1:293"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:34:56", "timeDiff": "0:0:1:294"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:35:26", "timeDiff": "0:0:1:280"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:35:56", "timeDiff": "0:0:1:280"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:36:26", "timeDiff": "0:0:1:388"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:36:56", "timeDiff": "0:0:1:334"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:37:26", "timeDiff": "0:0:1:433"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:37:56", "timeDiff": "0:0:1:349"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:38:26", "timeDiff": "0:0:1:347"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:38:56", "timeDiff": "0:0:1:287"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:39:26", "timeDiff": "0:0:1:320"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:39:56", "timeDiff": "0:0:1:350"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:40:26", "timeDiff": "0:0:1:304"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:40:56", "timeDiff": "0:0:1:366"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:41:26", "timeDiff": "0:0:1:423"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:41:56", "timeDiff": "0:0:1:493"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:42:26", "timeDiff": "0:0:1:417"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 03:07:26", "timeDiff": "0:3:13:346"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:43:26", "timeDiff": "0:0:1:393"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:43:56", "timeDiff": "0:0:1:471"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:45:26", "timeDiff": "0:0:1:414"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:45:56", "timeDiff": "0:0:1:453"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:46:26", "timeDiff": "0:0:1:457"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:46:56", "timeDiff": "0:0:1:432"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:47:26", "timeDiff": "0:0:1:429"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:47:56", "timeDiff": "0:0:1:393"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 03:14:26", "timeDiff": "0:3:10:296"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:48:56", "timeDiff": "0:0:1:424"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:20:56", "timeDiff": "0:0:58:401"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:49:56", "timeDiff": "0:0:1:485"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:50:26", "timeDiff": "0:0:1:413"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:50:56", "timeDiff": "0:0:1:409"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 04:51:26", "timeDiff": "0:0:1:441"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:51:56", "timeDiff": "0:0:1:396"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:52:26", "timeDiff": "0:0:1:433"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:52:56", "timeDiff": "0:0:1:423"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:53:26", "timeDiff": "0:0:1:410"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:53:56", "timeDiff": "0:0:1:539"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:54:26", "timeDiff": "0:0:1:406"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 04:54:56", "timeDiff": "0:0:1:396"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:55:26", "timeDiff": "0:0:1:492"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:55:56", "timeDiff": "0:0:1:468"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:56:26", "timeDiff": "0:0:1:495"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:56:56", "timeDiff": "0:0:1:453"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:57:26", "timeDiff": "0:0:1:451"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:57:56", "timeDiff": "0:0:1:546"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:58:26", "timeDiff": "0:0:1:507"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:58:56", "timeDiff": "0:0:1:437"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:59:26", "timeDiff": "0:0:1:460"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 04:59:56", "timeDiff": "0:0:1:477"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:00:26", "timeDiff": "0:0:1:467"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:00:56", "timeDiff": "0:0:1:426"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:01:26", "timeDiff": "0:0:1:439"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:01:56", "timeDiff": "0:0:1:435"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:02:26", "timeDiff": "0:0:1:455"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:02:56", "timeDiff": "0:0:1:422"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:03:26", "timeDiff": "0:0:1:425"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:03:56", "timeDiff": "0:0:1:548"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:04:26", "timeDiff": "0:0:1:429"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:04:56", "timeDiff": "0:0:1:490"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:05:26", "timeDiff": "0:0:1:445"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:05:56", "timeDiff": "0:0:1:440"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:06:26", "timeDiff": "0:0:1:564"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:06:56", "timeDiff": "0:0:1:606"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:07:26", "timeDiff": "0:0:1:592"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:07:56", "timeDiff": "0:0:1:624"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:08:26", "timeDiff": "0:0:1:524"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:08:56", "timeDiff": "0:0:1:571"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:09:26", "timeDiff": "0:0:1:523"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:09:56", "timeDiff": "0:0:1:508"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:10:26", "timeDiff": "0:0:1:485"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:10:56", "timeDiff": "0:0:1:550"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:11:26", "timeDiff": "0:0:1:568"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 05:11:56", "timeDiff": "0:0:2:860"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:12:56", "timeDiff": "0:0:1:554"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 5, "datetime": "2024-07-19 05:13:26", "timeDiff": "0:0:1:576"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 05:13:56", "timeDiff": "0:0:1:541"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 05:14:26", "timeDiff": "0:0:1:513"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:14:56", "timeDiff": "0:0:1:471"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 30, "datetime": "2024-07-19 05:15:26", "timeDiff": "0:0:1:500"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:15:56", "timeDiff": "0:0:1:544"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:16:26", "timeDiff": "0:0:1:579"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:16:56", "timeDiff": "0:0:1:489"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:17:26", "timeDiff": "0:0:1:478"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:17:56", "timeDiff": "0:0:1:551"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:18:26", "timeDiff": "0:0:1:530"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:44:56", "timeDiff": "0:1:9:536"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:19:26", "timeDiff": "0:0:1:540"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:19:56", "timeDiff": "0:0:1:541"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:20:26", "timeDiff": "0:0:1:495"}
+{"WARNING": "The watch battery is very low, please recharge.", "UPDATE_CELLPHONE_FREQUENCY": 300, "datetime": "2024-07-19 05:20:56", "timeDiff": "0:0:1:511"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:42:56", "timeDiff": "0:3:12:397"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 04:49:26", "timeDiff": "0:3:18:86"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:12:26", "timeDiff": "0:2:59:162"}
+{"WARNING": "The watch battery is very low, please recharge.", "datetime": "2024-07-19 05:18:56", "timeDiff": "0:3:10:310"}
