@@ -16,7 +16,7 @@ O dataset é composto por dois arquivos: 'dataset_dados.txt' e 'dataset_ações.
      ```
 
 2. **dataset_ações.txt**:
-   - **Descrição**: Este arquivo contém as respostas geradas pelo gêmeo digital para as diferentes entradas do primeiro dataset.
+   - **Descrição**: Este arquivo contém as respostas geradas pelo gêmeo digital para as diferentes entradas do primeiro dataset. O dado "timeDiff" foi utilizado para cálculos de delay, não estando presentes nas respostas originais do gêmeo.
    - **Formato**: JSON
    - **Exemplo de entrada**:
      ```json
