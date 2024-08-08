@@ -31,4 +31,4 @@ O dataset é composto por dois arquivos: 'dataset_dados.txt' e 'dataset_ações.
 
 
 # Visualização dos dados:
-![GRÁFICO](https://github.com/user-attachments/assets/bdf2480b-46a7-459f-9d56-d6719f83e2cf)
+![Grafico](https://github.com/user-attachments/assets/49edb94a-64fc-4c1a-863f-2d63e0b95a5e)
